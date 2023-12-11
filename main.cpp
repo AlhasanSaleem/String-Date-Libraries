@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 #include "clsPeriod.h"
 
 using namespace std;
